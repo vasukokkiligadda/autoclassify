@@ -1,5 +1,5 @@
-# MinML
-minMl - Sklearn classifications models auto training and logging progress 
+# AutoClassify
+Sklearn classifications models auto training and logging progress 
 
   - Fits 30+ sklean algorithms
   - generates 25+ metrics (almost all classification metrics)
