@@ -36,7 +36,7 @@ To view mlflow ui:
 $ cd ../mlruns/path
 $ mlfow ui
 ```
-Open Ui in broweser using 
+Open Ui in browser using 
 ```sh
 127.0.0.1:5000
 ```
